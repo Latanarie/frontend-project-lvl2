@@ -6,3 +6,5 @@
 [![Node CI](https://github.com/Latanarie/frontend-project-lvl2/actions/workflows/github-actions.yml/badge.svg)](https://github.com/Latanarie/frontend-project-lvl2/actions/workflows/github-actions.yml)
 
 [![asciicast](https://asciinema.org/a/XSR0rAcx2l4pGtMlK9hAxiRXn.svg)](https://asciinema.org/a/XSR0rAcx2l4pGtMlK9hAxiRXn)
+
+[![asciicast](https://asciinema.org/a/PyetPszHjM1bQSXNm4SEMZeVC.svg)](https://asciinema.org/a/PyetPszHjM1bQSXNm4SEMZeVC)
