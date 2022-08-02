@@ -1,13 +1,13 @@
 import { readFileSync } from 'node:fs';
 import _ from 'lodash';
 import path from 'path';
-import parse from './parsers.js';
+import getParse from './parsers.js';
 import selectFormat from './formaters/index.js';
 
 const getFileData = (filepath) => {
   const readFile = readFileSync(path.resolve(process.cwd(), filepath));
   const ext = path.extname(filepath).slice(1);
-  return parse(readFile, ext);
+  return getParse(readFile, ext);
 };
 
 const calculateDiff = (data1, data2) => {

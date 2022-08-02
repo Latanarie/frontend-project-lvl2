@@ -6,7 +6,9 @@
 [![Node CI](https://github.com/Latanarie/frontend-project-lvl2/actions/workflows/github-actions.yml/badge.svg)](https://github.com/Latanarie/frontend-project-lvl2/actions/workflows/github-actions.yml)
 ## Difference calculator
 Вычислитель отличий — программа с интерфейсом командной строки (CLI), позволяющая формировать разницу между двумя структурами данных или файлами конфигурации и отображать в необходимом для пользователя формате.\
+\
 Поддерживает следующие форматы данных: yaml, json\
+\
 Формирует отчет в форматах: stylish (по умолчанию), plain, json
 
 ### Руководство по установке
@@ -16,7 +18,7 @@
 ### Запуск тестов
 ```make test```
 
-### Запуск утилиты
+### Запуск утилиты:
 ```gendiff <filepath1> <filepath2> -f <format>```
 
 ### Вывод справки
